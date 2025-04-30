@@ -1,4 +1,4 @@
 name = "api-proxy"
 type = "javascript"
-main = "index.js"
+main = "cf-proxy/index.js"
 compatibility_date = "2024-04-30"
